@@ -52,3 +52,7 @@ Open datasets in Healthcare
 
 [License](https://drive.google.com/file/d/18dLVTJtkp052danMjzlirAgIsklT_Aem/view?usp=sharing)
 
+**References:**
+- [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/index.php)
+- [Kaggle](Kaggle.com)
+- [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
