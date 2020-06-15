@@ -1,4 +1,4 @@
-# datasets-healthcare
+# awesome-health-datasets
 Open datasets in Healthcare
 
 - [Heart](https://drive.google.com/file/d/1wEB2I6S6tQBVEPxir8cA5kFB8gTQadYY/view?usp=sharing)
