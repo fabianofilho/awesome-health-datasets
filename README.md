@@ -39,6 +39,7 @@ Open datasets in Healthcare
 
 ## Images
 - [COVID-19 X-ray](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+- [Methods to Evaluate Segmentation and Indexing Techniques in the field of Retinal Ophthalmology](http://www.adcis.net/en/third-party/messidor/)
 - [Gastrointestinal](https://datasets.simula.no/kvasir/)
 - [RSNA Intracranial Hemorrhage Detection](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm)
 - [Leucocytes](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm)
