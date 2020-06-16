@@ -36,6 +36,9 @@ Open datasets in Healthcare
 - [Cervical Cancer](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
 - [Lung Cancer](http://archive.ics.uci.edu/ml/datasets/Lung+Cancer)
 
+### Dermatology
+- [Skin Diseases Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+
 ### Epidemiology
 - [Life Expectancy Data](https://www.kaggle.com/kumarajarshi/life-expectancy-who?select=Life+Expectancy+Data.csv)
 
@@ -59,3 +62,4 @@ Open datasets in Healthcare
 - [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/index.php)
 - [Kaggle](Kaggle.com)
 - [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
+- Instagram @dadosesaude
