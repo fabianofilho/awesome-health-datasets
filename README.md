@@ -36,9 +36,6 @@ Open datasets in Healthcare
 - [Cervical Cancer](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
 - [Lung Cancer](http://archive.ics.uci.edu/ml/datasets/Lung+Cancer)
 
-### Dermatology
-- [Skin Diseases Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
-
 ### Epidemiology
 - [Life Expectancy Data](https://www.kaggle.com/kumarajarshi/life-expectancy-who?select=Life+Expectancy+Data.csv)
 
@@ -46,6 +43,7 @@ Open datasets in Healthcare
 - [COVID-19 X-ray](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 - [Methods to Evaluate Segmentation and Indexing Techniques in the field of Retinal Ophthalmology](http://www.adcis.net/en/third-party/messidor/)
 - [Gastrointestinal](https://datasets.simula.no/kvasir/)
+- [Skin Diseases Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 - [RSNA Intracranial Hemorrhage Detection](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm)
 - [Leucocytes](http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm)
 
